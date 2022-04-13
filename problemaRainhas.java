@@ -1,16 +1,18 @@
 
 public class problemaRainhas{
+
+    private static int[][] tabuleiro = new int[7][7];
+
     public static void main(String args[]){
-        int[][] tabuleiro = new int[7][7];
+        
         populaTabuleiro(tabuleiro);
 
     }
 
-    public static void primeiraJogada(int posicao){
-        int i=1;
-        int j=1;
+    public static void primeiraJogada(int linha, int coluna){
 
-        
+    
+
     }
 
 
